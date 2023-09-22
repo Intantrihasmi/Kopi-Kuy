@@ -1,0 +1,101 @@
+{
+    "arabica": [
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Cappuccino Arabica",
+            "size": "300 gr",
+            "harga": "200.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Pahit Arabica",
+            "size": "100 gr",
+            "harga": "100.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Arabica",
+            "size": "150 gr",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        }
+    ],
+    "robusta": [
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopsus Robusta",
+            "size": "100 gr",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Robusta",
+            "size": "150 gr",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+    ],
+    "nonkopi": [
+        {
+            "foto": "images/produk/product_chocolate_ice_cream_milkshake.jpg",
+            "nama": "Chocolate Ice Cream Milkshake",
+            "size": "150 ml",
+            "harga": "18.000",
+            "link": "https://www.google.com/search?q=chocolate+ice+cream+milkshake&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_matcha_milk_tea.jpg",
+            "nama": "Matcha Milk Tea",
+            "size": "120 ml",
+            "harga": "18.000",
+            "link": "https://www.google.com/search?q=matcha+milk+tea&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_strawberry_milkshake.jpg",
+            "nama": "Strawberry Milkshake",
+            "size": "150 ml",
+            "harga": "18.000",
+            "link": "https://www.google.com/search?q=strawberry+milkshake&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_lemon_tea.jpg",
+            "nama": "Lemon Tea",
+            "size": "100 ml",
+            "harga": "14.000",
+            "link": "https://www.google.com/search?q=lemon+tea&tbm=shop"
+        }
+    ],
+    "dessert": [
+        {
+            "foto": "images/produk/product_tiramisu.jpg",
+            "nama": "Tiramisu",
+            "size": "120 gr",
+            "harga": "22.000",
+            "link": "https://www.google.com/search?q=tiramisu&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_red_velvet.jpg",
+            "nama": "Red Velvet",
+            "size": "120 gr",
+            "harga": "22.000",
+            "link": "https://www.google.com/search?q=red+velvet&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_cheesecake.jpg",
+            "nama": "Cheesecake",
+            "size": "120 gr",
+            "harga": "22.000",
+            "link": "https://www.google.com/search?q=cheesecake&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_creme_brulee.jpg",
+            "nama": "Creme Brulee",
+            "size": "100 gr",
+            "harga": "18.000",
+            "link": "https://www.google.com/search?q=creme+brulee&tbm=shop"
+        }
+    ]
+}
